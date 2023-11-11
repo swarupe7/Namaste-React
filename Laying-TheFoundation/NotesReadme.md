@@ -36,7 +36,7 @@ Overall, JSX is a powerful tool that combines the strengths of JavaScript and HT
 
 # 3.role of type attribute in script tag?what options can i use there?
 
-The type attribute in a <script> tag is used to specify the MIME type of the script being included. The MIME type (Multipurpose Internet Mail Extensions) is a way to indicate the type of data contained in a file.
+The type attribute in a script tag is used to specify the MIME type of the script being included. The MIME type (Multipurpose Internet Mail Extensions) is a way to indicate the type of data contained in a file.
 
 In modern web development, if you're including JavaScript, you can omit the type attribute altogether, as browsers will assume "text/javascript" by default
 
