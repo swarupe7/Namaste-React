@@ -111,6 +111,7 @@ Virtual DOM
 HTML-Like Familiarity
 Support for Components and Props
 JSX Transpilation
+
 Role of type Attribute in Script Tag: The type attribute in a script tag specifies the MIME type of the script. In modern web development, for JavaScript, this attribute can often be omitted as browsers assume "text/javascript" by default. If using ECMAScript modules, you can specify type="module".
 
 {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent><TitleComponent/>} in JSX:
