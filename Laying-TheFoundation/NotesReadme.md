@@ -1,4 +1,5 @@
 # Namaste React 🚀
+
 ## Epsiode-3
 ### Laying The foundation
 
@@ -85,3 +86,7 @@ When displaying data in Html,you shouldnot have to edit the html file when the d
 
 XML is used such as websites,databases and third party applications.
 
+# 9.What is JSX type?
+
+JSX is an embeddable XML-like syntax it is meant to be transformed into valid javascript.
+It is an extension of javascript that allows developers to write Html right within Javascript
