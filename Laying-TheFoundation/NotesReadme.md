@@ -67,3 +67,21 @@ To summarize:
 Use {<ComponentName />} to render a React component in JSX.
 Use {variable} for JavaScript expressions or variables in JSX, but it won't render a component directly.
 Remember that TitleComponent should refer to a valid React component for these JSX expressions to work correctly.
+
+# 5.What is XML?
+XML stands for Extensilbe Markup Language.
+
+# 6.What is the difference between XML and HTML?
+
+Html displays data and describes the structure of a webpages whereas
+XML stores and transfer data. XML is a standard language which can define other computer languages.
+However Html is a predefined language with its own implications.
+
+# 7.Why we use XML instead of Html?
+
+When displaying data in Html,you shouldnot have to edit the html file when the data changes and with XML,the data can be stored in seperate XML files with a few lines of javascript code,you can read on XML file and update the data content of any html page.
+
+# 8.Where XML is used?
+
+XML is used such as websites,databases and third party applications.
+
