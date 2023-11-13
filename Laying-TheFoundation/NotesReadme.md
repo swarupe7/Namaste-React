@@ -90,3 +90,46 @@ XML is used such as websites,databases and third party applications.
 
 JSX is an embeddable XML-like syntax it is meant to be transformed into valid javascript.
 It is an extension of javascript that allows developers to write Html right within Javascript
+
+
+
+
+
+
+### Summary:
+
+JSX: JSX, or JavaScript XML, is a syntax extension for JavaScript that enables the integration of HTML-like code directly into JavaScript files. It is particularly powerful when used with libraries like React, providing an expressive, component-based, and declarative approach to building user interfaces.
+
+Superpowers of JSX:
+
+Expressive Syntax
+JavaScript Integration
+Component-Based Architecture
+Dynamic Content Rendering
+Declarative Syntax
+Virtual DOM
+HTML-Like Familiarity
+Support for Components and Props
+JSX Transpilation
+Role of type Attribute in Script Tag: The type attribute in a script tag specifies the MIME type of the script. In modern web development, for JavaScript, this attribute can often be omitted as browsers assume "text/javascript" by default. If using ECMAScript modules, you can specify type="module".
+
+{TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent><TitleComponent/>} in JSX:
+
+{TitleComponent}: Refers to a variable or reference, not a valid JSX for rendering a component.
+{<TitleComponent/>}: Correct JSX syntax to render a React component as a self-closing tag.
+{<TitleComponent><TitleComponent/>}: Invalid JSX syntax, likely to result in a parsing error.
+XML: XML stands for Extensible Markup Language. It is a standard language for defining other computer languages and is used to store and transfer data.
+
+Difference Between XML and HTML:
+
+HTML is for displaying data and describing webpage structure.
+XML is for storing and transferring data, and it can define other computer languages.
+Why Use XML Instead of HTML:
+
+XML allows data to be stored in separate files, making it easier to update without editing HTML files directly. It is particularly useful when data changes frequently.
+Where XML is Used:
+
+XML is used in websites, databases, and third-party applications for storing and transferring data.
+JSX Type:
+
+JSX is an embeddable XML-like syntax meant to be transformed into valid JavaScript. It allows developers to write HTML directly within JavaScript, facilitating the creation of UI components in libraries like React.
